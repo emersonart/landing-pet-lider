@@ -395,6 +395,9 @@ footer .sociais a{
   align-items: center;
   border-radius: 100%;
 }
+.footer-author{
+	background: rgba(0,0,0,.2);
+}
 @media screen and (min-width: 576px) and (max-width: 768px) {
   .cards-features > .card {
     flex: 1 0 50%;
